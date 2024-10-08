@@ -1,6 +1,5 @@
 mod opts;
 mod process;
 
-pub use process::Player;
-pub use process::process_csv;
-pub use opts::{Opts, SubCommand};
+pub use process::{process_csv, process_genpass};
+pub use opts::{SubCommand, Opts, GenPassOpts};
