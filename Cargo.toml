@@ -3,6 +3,7 @@ name = "rcli"
 authors = ["mengaily <zhu91aizhu@163.com>"]
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
 
 [dependencies]
 anyhow = "1.0.89"
